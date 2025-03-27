@@ -1,0 +1,32 @@
+*
+
+
+# submodules
+!.gitmodules
+!dynarr
+!docs/doxygen-awesome-css
+
+# documentation
+!docs
+!doxyconf
+!header.html
+!docs/*.dox
+!docs/*.css
+!docs/*.md
+
+!src
+!tests
+!examples
+!imgs
+!*.svg
+!*.c
+!*.h
+!*.am
+!*.ac
+!*.md.in
+
+!.gitignore
+!autogen.sh
+
+config.h
+aminclude_static.am
